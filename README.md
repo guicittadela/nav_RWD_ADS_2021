@@ -7,3 +7,4 @@ Atividade da Semana 18/05/2021
 Montar a paginação, se possivel utilizar dos seletores
 
 
+https://guicittadela.github.io/nav_RWD_ADS_2021/
